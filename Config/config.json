@@ -1,7 +1,7 @@
 {
     "client_version"  : 28,
     "client_repo_url" : "https://github.com/WillChing01/OpenBench",
-    "client_repo_ref" : "master",
+    "client_repo_ref" : "pingu",
 
     "use_cross_approval"          : true,
     "require_login_to_view"       : true,
